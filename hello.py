@@ -1,3 +1,3 @@
 print("hiii")
-def Add2(a,b):
+def Add3(a,b):
     return a+b
